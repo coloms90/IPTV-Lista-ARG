@@ -55,7 +55,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_Live_dash_enc_2A/Canal_
 
 LITORAL (SANTA FE y ENTRE RÍOS):
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zXMcQqP/Logo-ELONCE-Paran.png" group-title="TV",El Once PARAN�
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXMcQqP/Logo-ELONCE-Paran.png" group-title="TV",El Once PARANA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -115,6 +115,13 @@ MAR DEL PLATA:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc_2A/Telefe_MDQ_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XQhSC7F/Canal-8-MDP.png" group-title="TV",Canal 10 Mar del Plata
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c6eds/Canal_10_MDQ/SA_Live_dash_enc_2A/Canal_10_MDQ.mpd
 
 SANTIAGO DEL ESTERO:
 

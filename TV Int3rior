@@ -1,1 +1,72 @@
+#EXTM3U
+
 TV Interior
+
+CÓRDOBA:
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t2jJWSN/Canal-C-C-rdoba.png" group-title="TV",Canal C CORDOBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
+https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_2A/Canal_C.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4PR3ZQ7/Next-TV.png" group-title="TV",Next TV Villa Carlos Paz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
+https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_2A/Local_Carlos_Paz.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nn4YrzW/Somos-BELL-VILLE.png" group-title="TV",Somos Bell Ville
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/SA_Live_dash_enc_2A/Somos_Bell_Ville.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pg2ByXh/Somos-VILLA-MAR-A.png" group-title="TV",Somos Villa Maria
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/SA_Live_dash_enc_2A/Somos_Villa_Maria.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VD8bPpM/Somos-R-O-CUARTO.png" group-title="TV",Somos RIO TERCERO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/SA_Live_dash_enc_2A/Somos_Rio_3ro.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VD8bPpM/Somos-R-O-CUARTO.png" group-title="TV",Somos RIO CUARTO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51581658f7be364136e69a2e5cd5191c:ad9419d3cbe0572dd928445d83f42c72
+http://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_Live_dash_enc/Somos_Rio_4to.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2pWJGD/Canal-13-R-O-CUARTO.png" group-title="TV",Canal 13 Rio Cuarto
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_Live_dash_enc_2A/Canal_13_Rio_4to.mpd
+
+SANTIAGO DEL ESTERO:
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dm2cFgh/Canal-4-Express-Santiago-del-Estero.png" group-title="TV",Canal 4 Express Santiago del Estero
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6169470424b647c39c15c065687a4c41:403cbb091dbea061a0d16988b4448d15
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+https://anbalancer.express.com.ar/live/c1eds/Canal_4_Santiago/SA_DASH_cipix/Canal_4_Santiago.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jCpqDZ/Canal-7-Santiago-del-Estero.png" group-title="TV",Canal 7 Santiago del Estero
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc/Canal7_SDE.mpd

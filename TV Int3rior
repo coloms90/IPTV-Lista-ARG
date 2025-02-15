@@ -53,6 +53,72 @@ http://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_Live_dash_enc/Somos_Rio_4to
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_Live_dash_enc_2A/Canal_13_Rio_4to.mpd
 
+LITORAL (SANTA FE y ENTRE RÍOS):
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXMcQqP/Logo-ELONCE-Paran.png" group-title="TV",El Once PARAN�
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c7eds/Canal_11_Parana/SA_Live_dash_enc/Canal_11_Parana.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Tp32GS/Canal-9-LITORAL.png" group-title="TV",Canal 9 LITORAL 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd573858f3414066b9292ef6397a5c3c:593eb5f7facce4240ff7a5f26afd47e0
+https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gsMp84/Telefe-SANTA-FE.png" group-title="TV",Telefe SANTA FE 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1xDFWt/Cy-D-Litoral.png" group-title="TV",CyD Litoral
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c6eds/Cable_Y_Diario/SA_Live_dash_enc_2A/Cable_Y_Diario.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kZDbtF/Somos-SANTA-FE-preview-rev-1.png" group-title="TV",Somos SANTA FE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
+https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSmSZ5d/Somos-RAFAELA.png" group-title="TV",Somos RAFAELA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phsFdjS/Somos-ROSARIO-preview-rev-1.png" group-title="TV",Canal 8 Mar del Plata 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+http://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
+
+MAR DEL PLATA:
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phsFdjS/Somos-ROSARIO-preview-rev-1.png" group-title="TV",Somos ROSARIO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc_2A/Telefe_MDQ_HD.mpd
+
 SANTIAGO DEL ESTERO:
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dm2cFgh/Canal-4-Express-Santiago-del-Estero.png" group-title="TV",Canal 4 Express Santiago del Estero
@@ -63,10 +129,40 @@ SANTIAGO DEL ESTERO:
 #EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
 https://anbalancer.express.com.ar/live/c1eds/Canal_4_Santiago/SA_DASH_cipix/Canal_4_Santiago.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jCpqDZ/Canal-7-Santiago-del-Estero.png" group-title="TV",Canal 7 Santiago del Estero
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc/Canal7_SDE.mpd
+
+SALTA y JUJUY:
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="TV",Canal 4 Express SALTA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6169470424b647c39c15c065687a4c41:403cbb091dbea061a0d16988b4448d15
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+https://anbalancer.express.com.ar/live/c1eds/Canal_4_Salta/SA_DASH_cipix/Canal_4_Salta.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gdGg9rG/El-Once-TV-SALTA.png" group-title="TV",El Once SALTA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRKyDks/Canal-7-Jujuy.png" group-title="TV",Canal 7 JUJUY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/CH_7_Jujuy/SA_Live_dash_enc_2A/CH_7_Jujuy.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpgdgXj/sssj.png" group-title="TV",Somos SALTA-JUJUY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd

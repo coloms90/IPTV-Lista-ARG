@@ -4,6 +4,9 @@ TV Interior
 
 CÓRDOBA:
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3XjjL/El-Doce-C-RDOBA.png" group-title="TV",El Doce CORDOBA DirecTV
+http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/eldoce.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t2jJWSN/Canal-C-C-rdoba.png" group-title="TV",Canal C CORDOBA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

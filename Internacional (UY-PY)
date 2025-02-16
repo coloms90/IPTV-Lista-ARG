@@ -2,6 +2,38 @@
 
 Internacional (🇺🇾 y 🇵🇾)
 
+URUGUAY:
+
+
+#EXTINF:-1 group-title="Uruguay", ch-number="704" tvg-id="Canal4.uy.uy" tvg-name="CANAL 4 MONTECARLO" tvg-logo="https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1", Canal 4 Uruguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
+
+#EXTINF:-1 group-title="Uruguay", ch-number="705" tvg-id="Canal5.uy.uy" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png", Canal 5 Uruguay
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdHYzhd/Cnal-10-Uruguay.png" group-title="TV", Canal 10 Uruguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+
+#EXTINF:-1 group-title="Uruguay", ch-number="712" tvg-id="Teledoce.uy.uy" tvg-name="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png", Canal 12 Uruguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
+https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
+
+PARAGUAY:
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRnhZJV/Paraguay-TV.png" group-title="TV",TV Paraguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

@@ -1,0 +1,38 @@
+#EXTM3U
+
++18
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9v1pLZf/Venus.png" group-title="ADULTOS",Venus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VTjS2hk/Playboy-TV.png" group-title="ADULTOS",Playboy TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz2MvfQ/Sextreme.png" group-title="ADULTOS",Sextreme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZLz3DM/Hustler-Mature.png" group-title="ADULTOS",Hustler Mature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZWYhtvp/Penthouse-Gold.png" group-title="ADULTOS",Penthouse Gold
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ea2af43c32671ae610492a42eb9d3d:8c93d80f9aef8ff702743eafda810b91
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/Channel(PENTHOUSE)/manifest.mpd

@@ -1,0 +1,31 @@
+#EXTM3U
+
+Internacional (🇺🇾 y 🇵🇾)
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRnhZJV/Paraguay-TV.png" group-title="TV",TV Paraguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rbdGTbm/NPY-Paraguay.png" group-title="TV",NPY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
+https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frh2JFt/anduti-TV.png" group-title="TV",�anduti TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_2A/Nanduti_Py.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yfr0Z0V/Hei-Now.png" group-title="TV",Hei Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_2A/HEI_NOW.mpd

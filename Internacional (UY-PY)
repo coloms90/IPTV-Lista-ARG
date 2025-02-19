@@ -55,6 +55,13 @@ https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_2A/Nanduti_Py.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9m86FQ/Venus-Media.png" group-title="TV",Venus Media
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yfr0Z0V/Hei-Now.png" group-title="TV",Hei Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

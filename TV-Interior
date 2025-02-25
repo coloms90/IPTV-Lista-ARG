@@ -110,13 +110,6 @@ https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
 #KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
 https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvz4ztsL/Somos-San-Nicol-s.png" group-title="TV",Somos San Nicolás
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Nicolas/SA_Live_dash_enc/Somos_San_Nicolas.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phsFdjS/Somos-ROSARIO-preview-rev-1.png" group-title="TV",Somos ROSARIO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

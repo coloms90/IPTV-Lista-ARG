@@ -89,6 +89,13 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c6eds/Cable_Y_Diario/SA_Live_dash_enc_2A/Cable_Y_Diario.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3tHNgx5/RTS-Santa-Fe.png" group-title="TV",RTS Santa Fe
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/5RTV/SA_Live_dash_enc_2A/5RTV.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kZDbtF/Somos-SANTA-FE-preview-rev-1.png" group-title="TV",Somos SANTA FE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

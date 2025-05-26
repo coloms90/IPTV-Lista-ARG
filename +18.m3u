@@ -36,3 +36,17 @@ https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ea2af43c32671ae610492a42eb9d3d:8c93d80f9aef8ff702743eafda810b91
 https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/Channel(PENTHOUSE)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch35Dz19/Latin-Angels.png" group-title="ADULTOS",Latin Angels
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2937577cdfafa48badfbc60483470eb1&key=f7e9200f35b2e7fc29adc14872db4822
+https://dish.akamaized.net/Content/DASH/Live/channel(latinangelgirlshd)/variant.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4L3HyV8/SexyHot.png" group-title="ADULTOS",Sexy Hot
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=&key=
+https://dish.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd

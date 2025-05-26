@@ -1,9 +1,30 @@
 #EXTM3U
 
-Internacional (🇺🇾 y 🇵🇾)
+Internacional (BO, UY y PY)
+
+BOLIVIA:
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dk5rmYR/Bolivia-TV.png" group-title="TV",Bolivia TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/BOLIVIA_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dk5rmYR/Bolivia-TV.png" group-title="TV",Bolivia TV 2
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSsYkY2Y/Bolivisi-n-1.png" group-title="TV",Bolivision
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/BOLIVISION.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSsYkY2Y/Bolivisi-n-1.png" group-title="TV",Bolivision 2
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 URUGUAY:
-
 
 #EXTINF:-1 group-title="Uruguay", ch-number="704" tvg-id="Canal4.uy.uy" tvg-name="CANAL 4 MONTECARLO" tvg-logo="https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1", Canal 4 Uruguay
 #KODIPROP:inputstreamaddon=inputstream.adaptive

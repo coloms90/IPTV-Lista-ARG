@@ -4,15 +4,55 @@ TV Interior
 
 CÓRDOBA:
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3XjjL/El-Doce-C-RDOBA.png" group-title="TV",El Doce CORDOBA DirecTV
-http://45.172.19.197/Live/df468451e3addd18a0d1c614f8932322/eldoce.playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t2jJWSN/Canal-C-C-rdoba.png" group-title="TV",Canal C CORDOBA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
 https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_2A/Canal_C.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/52j7KB6/Telefe-C-RDOBA.png" group-title="TV",Telefe CORDOBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=103ce214b4d04c8eb4dd43670e956dad&key=20e030576b8dc4df0d1c68e16af3bc0f
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VY60kjGV/Canal-10-CBA.png" group-title="TV",Canal 10 CORDOBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6d85fcc70989d0dbe8d70dd70a4629c0&key=a953290192fd5db5bf7936a88ecc6877
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3XjjL/El-Doce-C-RDOBA.png" group-title="TV",El Doce CORDOBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3XjjL/El-Doce-C-RDOBA.png" group-title="TV",El Doce CORDOBA SATELITAL
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@eldoce/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHsG7Q3/Canal-U-CBA.png" group-title="TV",Canal U CORDOBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b93e6ce6b4fb51b890ac57d8c0b6a402&key=53eb2499d8c57cf6f9ea887c8683c591
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc/CBA24.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4PR3ZQ7/Next-TV.png" group-title="TV",Next TV Villa Carlos Paz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -56,13 +96,21 @@ http://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_Live_dash_enc/Somos_Rio_4to
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_Live_dash_enc_2A/Canal_13_Rio_4to.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bYnWqN/Telediario-TV.png" group-title="TV",Telediario TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
+#EXTVLCOPT:http-referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd
+
 LITORAL (SANTA FE y ENTRE RÍOS):
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zXMcQqP/Logo-ELONCE-Paran.png" group-title="TV",El Once PARANA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=82d766840c7ea82b4f309ae1d4f9c0d7:41071d71fc94b54c87e6140d7b2e9226
 https://cdn.cvattv.com.ar/live/c7eds/Canal_11_Parana/SA_Live_dash_enc/Canal_11_Parana.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Tp32GS/Canal-9-LITORAL.png" group-title="TV",Canal 9 LITORAL 
@@ -86,14 +134,14 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=6df95979c5b379c56f6e87a19e37be00:034564e9816644d6618644246347bc64
 https://cdn.cvattv.com.ar/live/c6eds/Cable_Y_Diario/SA_Live_dash_enc_2A/Cable_Y_Diario.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3tHNgx5/RTS-Santa-Fe.png" group-title="TV",RTS Santa Fe
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=7caca846fda0ac308553f7eb7284a596:256934a336abbc242378af4a2dfcac4e
 https://cdn.cvattv.com.ar/live/c4eds/5RTV/SA_Live_dash_enc_2A/5RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kZDbtF/Somos-SANTA-FE-preview-rev-1.png" group-title="TV",Somos SANTA FE
@@ -116,10 +164,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafael
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
 http://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRS24TX/Express-Fan-ROSARIO.png" group-title="TV",Express Fan ROSARIO
-#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
-https://anbalancer.express.com.ar/live/c1eds/Canal_4_Free_To_Air/SA_HLS_cipix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/94KBGCz/El-Tres-ROSARIO.png" group-title="TV",El Tres ROSARIO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -151,6 +195,20 @@ https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc_2A/Telefe_MD
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c6eds/Canal_10_MDQ/SA_Live_dash_enc_2A/Canal_10_MDQ.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdQVs4PD/Canal-2-MDP.png" group-title="TV",Canal 2 Mar del Plata
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c4eds/Canal_2_MDQ_LCC/SA_Live_dash_enc_2A/Canal_2_MDQ_LCC.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvqjwF6H/Canal-Universidad-MDP.png" group-title="TV",Canal Universidad Mar del Plata
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn.cvattv.com.ar/live/c7eds/Universidad_MDQ/SA_Live_dash_enc_2A/Universidad_MDQ.mpd
+
 SANTIAGO DEL ESTERO:
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dm2cFgh/Canal-4-Express-Santiago-del-Estero.png" group-title="TV",Canal 4 Express Santiago del Estero
@@ -167,6 +225,38 @@ https://anbalancer.express.com.ar/live/c1eds/Canal_4_Santiago/SA_DASH_cipix/Cana
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc/Canal7_SDE.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V1DBcxn/Canal-14-Santiago-del-Estero.png" group-title="TV",Canal 14 Santiago del Estero
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-origin="https://www.mio.tv/"
+#EXTVLCOPT:http-referrer="https://www.mio.tv/"
+https://supercanal-cdn2.tbxdrm.com/canal14/manifest.mpd
+
+MENDOZA:
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/29TZHZF/El-Siete-Mendoza.png" group-title="TV",El Siete Mendoza
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@elsietemendoza/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0p6rDQDN/Canal-9-Televida-Mendoza.png" group-title="TV",Canal 9 Televida Mendoza
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8n3wWR1F/TVEO-Mendoza.png" group-title="TV",TVEO Mendoza
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-origin="https://www.mio.tv/"
+#EXTVLCOPT:http-referrer="https://www.mio.tv/"
+https://supercanal-cdn2.tbxdrm.com/tveo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLNNJR0G/Se-al-U-Mendoza.jpg" group-title="TV",Senal U Mendoza
+https://tvd.uncu.edu.ar/memfs/8f90310c-f1d6-46ff-9fa1-77f07ea80005_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZ1cwrZ8/JTA-TV-Mendoza.png" group-title="TV",JTA TV Mendoza
+https://streaming.jtamendoza.com/hls/test.m3u8
 
 SALTA y JUJUY:
 
@@ -191,6 +281,20 @@ https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cdn.cvattv.com.ar/live/c4eds/CH_7_Jujuy/SA_Live_dash_enc_2A/CH_7_Jujuy.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRKyDks/Canal-7-Jujuy.png" group-title="TV",Canal 7 JUJUY 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://el4live1.boldmss.com/CANAL_7_JUJUY/CANAL_7_JUJUY_EL4.isml/CANAL_7_JUJUY.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/398nbH9q/Canal-4-Jujuy.png" group-title="TV",Canal 4 JUJUY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://el4live1.boldmss.com/ELCUATRO/ELCUATRO_EL4.isml/ELCUATRO.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dpgdgXj/sssj.png" group-title="TV",Somos SALTA-JUJUY
 #KODIPROP:inputstreamaddon=inputstream.adaptive

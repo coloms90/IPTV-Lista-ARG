@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWNd81Yx/Encuentro.png" group-title="TV",Encuentro
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mHG5WsP/TEC-TV.png" group-title="TV",TEC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-origin="https://nowtv.express.com.ar/"
+#EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://anbalance.express.com.ar/live/c1eds/TEC_TV/SA_DASH_cipix/TEC_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
+https://bvclive1.boldmss.com/CONSTRUIR_TV/CONSTRUIR_TV_BVC.isml/CONSTRUIR_TV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ghrR5r/History.png" group-title="TV",History Channel 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygLC2xN/Nat-Geo.png" group-title="TV",Nat Geo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q39bDRzw/Discovery-Channel.png" group-title="TV",Discovery Channel 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rpp0vjBJ/Animal-Planet.png" group-title="TV",Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wykLCk/Love-Nature.png" group-title="TV",Love Nature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
+#EXTVLCOPT:http-referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd

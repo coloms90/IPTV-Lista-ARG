@@ -41,12 +41,12 @@ https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/Cha
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2937577cdfafa48badfbc60483470eb1&key=f7e9200f35b2e7fc29adc14872db4822
+#KODIPROP:inputstream.adaptive.license_key=2937577cdfafa48badfbc60483470eb1:f7e9200f35b2e7fc29adc14872db4822
 https://dish.akamaized.net/Content/DASH/Live/channel(latinangelgirlshd)/variant.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4L3HyV8/SexyHot.png" group-title="ADULTOS",Sexy Hot
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=&key=
+#KODIPROP:inputstream.adaptive.license_key=
 https://dish.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd

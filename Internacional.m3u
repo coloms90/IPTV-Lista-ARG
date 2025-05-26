@@ -48,11 +48,34 @@ https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV
 #KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
 https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/frh2JFt/anduti-TV.png" group-title="TV",�anduti TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq5vJBT9/Telefuturo.png" group-title="INTERNACIONALES",Telefuturo Paraguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2tfhhyD/ABC-TV.png" group-title="INTERNACIONALES",ABC TV Paraguay
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
+https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frh2JFt/anduti-TV.png" group-title="TV",Nanduti TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
 https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_2A/Nanduti_Py.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9m86FQ/Venus-Media.png" group-title="TV",Venus Media
@@ -60,11 +83,17 @@ https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_2A/Nanduti_Py.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
 https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yfr0Z0V/Hei-Now.png" group-title="TV",Hei Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
+#EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
 https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_2A/HEI_NOW.mpd

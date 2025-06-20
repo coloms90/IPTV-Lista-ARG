@@ -35,7 +35,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Hustler/SA_Live_dash_enc/Hustler.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ea2af43c32671ae610492a42eb9d3d:8c93d80f9aef8ff702743eafda810b91
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/Channel(PENTHOUSE)/manifest.mpd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PENTHOUSE)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch35Dz19/Latin-Angels.png" group-title="ADULTOS",Latin Angels
 #KODIPROP:inputstreamaddon=inputstream.adaptive

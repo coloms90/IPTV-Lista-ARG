@@ -23,7 +23,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
 #KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
 https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BZLz3DM/Hustler-Mature.png" group-title="ADULTOS",Hustler Mature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mKgwYMb/Hustler-Mature.png" group-title="ADULTOS",Hustler Mature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

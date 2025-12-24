@@ -1,0 +1,13 @@
+#EXTM3U
+# Use https://tracker.tvsa.cl.boldmss.com/tracker/v1/content-tracking for new DRM tokens.
+# Use https://api.directvgo.com/entitlement/v3/playback/token/authorizer for new DRM tokens.
+
+#EXTINF:1 tvg-logo="https://i.ibb.co/wsxNGYx/DSports.png" group-title="DEPORTES",DSports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|https://cpix.tbxdrm.com/v1/license/dtvgo/widevine?contentId=Live_1057&userToken=<token>|Content-Type=application/octet-stream|R{SSM}|
+https://1057-aws-da-mt.vrioott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd|https://api.directvgo.com/entitlement/v3/playback/token/authorizer
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg6dYtt/Canal-4-Express-SALTA.png" group-title="NORTE",Canal 4 Express SALTA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|https://widevine2.tvsa.boldmss.com/license&userToken=<token>|Content-Type=application/octet-stream|R{SSM}|
+https://anbalancer.express.com.ar/live/c1eds/Canal_4_Salta/SA_DASH_cipix/Canal_4_Salta.mpd?dvr_window_length=30

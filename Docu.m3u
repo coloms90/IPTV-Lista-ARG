@@ -14,13 +14,14 @@ https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=20bc4e3bac404413913688f94ac5d5a2:f28a00ab09d4134f741121205c183bc4
 #EXTVLCOPT:http-origin="https://nowtv.express.com.ar/"
 #EXTVLCOPT:http-referrer="https://nowtv.express.com.ar/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
 https://anbalance.express.com.ar/live/c1eds/TEC_TV/SA_DASH_cipix/TEC_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvXby9rM/Construir-TV-2.png" group-title="TV",Construir TV
+#KODIPROP:inputstream.adaptive.license_key=3184a62584b247baa350308639a9bdf6:7bb92afd72a80341aaacbe15069fdad1
 https://bvclive1.boldmss.com/CONSTRUIR_TV/CONSTRUIR_TV_BVC.isml/CONSTRUIR_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9ghrR5r/History.png" group-title="TV",History Channel 

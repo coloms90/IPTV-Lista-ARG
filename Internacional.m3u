@@ -8,7 +8,7 @@ BOLIVIA:
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=39d2be99630b407eab45a38be42265e1:854ec0dbcc28e28b077e13f408ef121e
 https://el4live1.boldmss.com/BOLIVIA_TV/BOLIVIA_TV_EL4.isml/BOLIVIA_TV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dk5rmYR/Bolivia-TV.png" group-title="TV",Bolivia TV 2
@@ -18,7 +18,7 @@ https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=e6b16601734349eab878d52d00f583ab:03f5b7fbc1cbfb5d612dc3b735dfb184
 https://el4live1.boldmss.com/BOLIVISION/BOLIVISION_EL4.isml/BOLIVISION.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSsYkY2Y/Bolivisi-n-1.png" group-title="TV",Bolivision 2
@@ -93,7 +93,7 @@ https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=46c3d8c42bb9799e5de5792e3fb45de4:aed06fd292d278aa464da44752b9c313
 #EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
 #EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
@@ -103,7 +103,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc_2A/Nanduti_Py.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=835af7d77bd13621ba044ab931e5e89f:753ed98985b348ab7bf3c0a2b24930eb
 #EXTVLCOPT:http-origin="https://web.app.flow.com.ar/"
 #EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.200 Mobile Safari/537.36"
